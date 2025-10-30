@@ -1928,7 +1928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "L08R5000Q1:LEDRD254W57D500H1070"
+		(property "Footprint" "lib:LEDRD254W57D500H1070 (1)"
 			(at 130.81 86.36 0)
 			(effects
 				(font
@@ -2183,7 +2183,7 @@
 				)
 			)
 		)
-		(property "Footprint" "L08R5000Q1:LEDRD254W57D500H1070"
+		(property "Footprint" "lib:LEDRD254W57D500H1070 (1)"
 			(at 165.1 86.36 0)
 			(effects
 				(font
@@ -2372,7 +2372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "L08R5000Q1:LEDRD254W57D500H1070"
+		(property "Footprint" "lib:LEDRD254W57D500H1070 (1)"
 			(at 147.32 86.36 0)
 			(effects
 				(font
@@ -2561,7 +2561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "L08R5000Q1:LEDRD254W57D500H1070"
+		(property "Footprint" "lib:LEDRD254W57D500H1070 (1)"
 			(at 185.42 86.36 0)
 			(effects
 				(font
@@ -2749,7 +2749,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Module:MOUDLE14P-XIAO-DIP-SMD"
+		(property "Footprint" "lib:XIAO-RP2040-DIP"
 			(at 152.908 140.208 0)
 			(effects
 				(font
@@ -2985,7 +2985,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 119.38 60.96 0)
 			(effects
 				(font
@@ -3053,7 +3053,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 144.78 60.96 0)
 			(effects
 				(font
@@ -3190,7 +3190,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 121.412 90.17 90)
 			(effects
 				(font
@@ -3458,7 +3458,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 176.022 90.17 90)
 			(effects
 				(font
@@ -3526,7 +3526,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 168.91 60.96 0)
 			(effects
 				(font
@@ -3596,7 +3596,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 137.922 90.17 90)
 			(effects
 				(font
@@ -3798,7 +3798,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 155.702 90.17 90)
 			(effects
 				(font
@@ -3866,7 +3866,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 194.31 60.96 0)
 			(effects
 				(font
