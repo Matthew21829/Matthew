@@ -11,5 +11,6 @@ Finally, I put the name of my PCB, and that was it.
 
 ## pcb editor
 <img width="785" height="449" alt="image" src="https://github.com/user-attachments/assets/7ae00114-4089-432c-a048-6d343d801c9d" />
+
 ## 3D model
 <img width="608" height="349" alt="image" src="https://github.com/user-attachments/assets/4f407e19-1dc4-4b4a-8f2e-6cf5537e6612" />
