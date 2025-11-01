@@ -1,5 +1,5 @@
 # buñuelo
-## buñuelo first session 2 - [2 hours]
+## buñuelo first session 2 - [1 hour]
 What i did: I downloaded the programs and then configured everything as shown in the tutorial. I wanted to create a schematic for four buttons and four LEDs.
 Once the program was open, I imported the XIAO-RP2024 chip and placed it in my schematic. After that, I added the four buttons and then imported the LEDs, adding four of them and connecting a resistor to each
 When that was ready, I connected them to the chip using the global tags and then connected them to ground. And that's how the schematic turned out.
@@ -14,3 +14,10 @@ Finally, I put the name of my PCB, and that was it.
 
 ## 3D model
 <img width="608" height="349" alt="image" src="https://github.com/user-attachments/assets/4f407e19-1dc4-4b4a-8f2e-6cf5537e6612" />
+
+# buñuelo third session [30 minutes]
+
+After serveral minutes downloading Arduino IDE, i saw the tutorial and i changed things that i wanted from the code. 
+This part was a little bit difficult for me, but i kept going as best i could, adjusting things to my liking. After finishing the code, i saved the project.
+
+<img width="1180" height="917" alt="image" src="https://github.com/user-attachments/assets/1dc775aa-0338-4f76-973c-e6fde4aa0c1c" />
